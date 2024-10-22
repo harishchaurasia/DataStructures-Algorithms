@@ -12,3 +12,12 @@
 # print(squared)
 # for n in squared:
 #     print(n)
+
+
+# practising functions
+
+# def table(num):
+#     for x in range(1,11):
+#         print(f"{num} * {x} = {num * x}")
+
+# table(9999)
